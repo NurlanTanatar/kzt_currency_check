@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="mainImage">
+    <file>img/1.jpg</file>
+  </qresource>
+  <qresource prefix="dollarSign">
+    <file>img/dollar.png</file>
+  </qresource>
+</RCC>
